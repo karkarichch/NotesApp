@@ -6,7 +6,7 @@ This app is created in order to help users create and delete the notes they want
 1. Download the source code
 
 ```bash
-git clone []
+git clone [https://github.com/karkarichch/NotesApp.git]
 
 ```
 you can also simply download the .zip file
@@ -29,4 +29,4 @@ node app
 - uuid
 
 #### Link to GitHub repository
-[]
+[https://github.com/karkarichch/NotesApp.git]
