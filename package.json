@@ -1,0 +1,17 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Express.js Notes App",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "John Roller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "uuid": "^8.3.2"
+  }
+}
